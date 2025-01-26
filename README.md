@@ -3,8 +3,6 @@
 
 需要安装依赖库：
 
-bash
-复制
 pip install requests pysocks
 功能特点：
 
